@@ -31,4 +31,4 @@
 
 ## Link to full text PDF
 
-Will be provided when available
+http://elib.dlr.de/96981/

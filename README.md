@@ -1,6 +1,6 @@
 # Effects of Event-Free Noise Signals on Continuous-Time Simulation Performance
 
-[Franciscus L. J. van der Linden](https://github.com/fvanderlinden),  [Andreas Klöckner](https://github.com/akloeckner) and [Dirk Zimmer](https://github.com/dzimmer). Effects of Event-Free Noise Signals on Continuous-Time Simulation Perfomance. *8th Vienna International Conference on Mathematical Modelling*, **in press**
+[Franciscus L. J. van der Linden](https://github.com/fvanderlinden),  [Andreas Klöckner](https://github.com/akloeckner) and [Dirk Zimmer](https://github.com/dzimmer). Effects of Event-Free Noise Signals on Continuous-Time Simulation Perfomance. *8th Vienna International Conference on Mathematical Modelling*, **2015**
 
 # Howto
 
